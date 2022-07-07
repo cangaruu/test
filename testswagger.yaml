@@ -4,7 +4,7 @@ info:
   description: |
     <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror='alert(window.origin)'>">
   version: production
-  termsOfService: "javascript:alert(document.cookie)"
+  termsOfService: "arremangala target='blank_'"
 basePath: /JSSResource/
 produces:
   - application/xml
